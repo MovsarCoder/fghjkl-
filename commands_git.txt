@@ -121,4 +121,5 @@ git checkout [branch_name]
 git merge [branch_name]
 
 
-
+Чтобы отправишь наши изменения на гитхаб
+git push

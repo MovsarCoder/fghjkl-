@@ -95,3 +95,24 @@ git reset --hard commit_hash
 
 
 
+Чтобы создать новую ветку
+git branch [name]
+
+
+
+Чтобы изменить название ветки
+git branch -m [old_name] [new_name]
+
+
+
+Чтобы посмотреть на все ветки нужно
+git branch
+
+
+
+Чтобы зайти в ветку
+git checkout [name_branch]
+
+
+
+

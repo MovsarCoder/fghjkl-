@@ -92,3 +92,6 @@ git reset --mixed commit_hash
 
 Самое опасное. После того как мы откатим коммит мы не сможем вернуть наши исходные файлы
 git reset --hard commit_hash
+
+
+

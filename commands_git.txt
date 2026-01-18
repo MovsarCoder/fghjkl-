@@ -111,8 +111,12 @@ git branch
 
 
 Чтобы зайти в ветку
-git checkout [name_branch]
+git checkout [branch_name]
 
+
+
+Чтобы стянуть изменения с каких-то веток (сделать слияние веток)
+git merge [branch_name]
 
 
 
